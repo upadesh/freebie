@@ -34,6 +34,7 @@ module.exports = {
         `gatsby-plugin-emotion`,
         `gatsby-plugin-theme-ui`,
         `gatsby-transformer-remark`,
+		`gatsby-plugin-netlify-cms`,
         "gatsby-transformer-json",
         {
             resolve: "gatsby-source-filesystem",
