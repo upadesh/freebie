@@ -1,15 +1,15 @@
 /* eslint-disable prettier/prettier */
 module.exports = {
-    title: "Bunzo",
-    titleTemplate: "Bunzo - React Gatsby Blog Template",
+    title: "Top List",
+    titleTemplate: "Top Listed Products",
     description:
-        "Bunzo is one of the most popular blog template",
+        "Find what is in the top list.",
     author: "Bunzo",
     twitterUsername: "@bunzo",
     keywords: ["bootstrap", "html", "react", "gatsby", "template", "blog", "creative"],
     image: "banner_image.png",
-    siteUrl: "https://bunzo.com",
-    pathPrefix: "/bootstrap-template",
+    siteUrl: "https://top-list.netlify.app/",
+    pathPrefix: "/",
     localUrl: "https://top-list.netlify.app/",
     canonical: "https://top-list.netlify.app/",
     social: {
@@ -19,7 +19,7 @@ module.exports = {
     },
     siteLanguage: "en",
     favicon: "src/assets/images/favicon.png", // Used for manifest favicon generation
-    shortName: "bunzo", // shortname for manifest. *Must* be shorter than 12 characters
+    shortName: "TopList", // shortname for manifest. *Must* be shorter than 12 characters
     themeColor: "#5E60E7",
     backgroundColor: "#fff",
 };
