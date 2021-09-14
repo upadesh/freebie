@@ -10,8 +10,8 @@ module.exports = {
     image: "banner_image.png",
     siteUrl: "https://bunzo.com",
     pathPrefix: "/bootstrap-template",
-    localUrl: "http://localhost:8000",
-    canonical: "https://bunzo.com",
+    localUrl: "https://top-list.netlify.app/",
+    canonical: "https://top-list.netlify.app/",
     social: {
         facebook: "https://www.facebook.com/bunzo",
         twitter: "https://twitter.com/bunzo",
