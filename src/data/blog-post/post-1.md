@@ -1,4 +1,5 @@
 ---
+layout: blog
 title: "Customize your WooCommerce store with countless design"
 thume_image: "../../data/images/blog/01.jpg"
 date: "2021-02-01"

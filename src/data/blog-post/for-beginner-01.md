@@ -1,4 +1,5 @@
 ---
+layout: blog
 title: "Create beautiful designs gatsby convert more..."
 thume_image: "../../data/images/banners/02-special-banner.jpg"
 date: "2021-03-25"
