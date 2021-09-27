@@ -44,10 +44,10 @@ const SinglePosts = ({ data, location, pageContext }) => {
     const image = getImage(post.thume_image.childImageSharp);
 
     // Social Share
-    const baseUrl = "https://hasthems.com";
+    const baseUrl = "https://innepall.com";
 
     // Disqus Comments add
-    const disqusShorttname = "mitech-1";
+    const disqusShorttname = "upadesh";
     const disquscConfig = {
         identifier: data.markdownRemark.id,
         title: post.title,
